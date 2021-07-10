@@ -93,7 +93,7 @@ class _HomeScreenState extends State<HomeScreen> {
         items: [
           BottomNavigationBarItem(
             icon: Icon(
-              Icons.search,
+              Icons.home,
               size: 28.0,
             ),
             label: '',
